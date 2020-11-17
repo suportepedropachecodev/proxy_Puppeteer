@@ -1,0 +1,25 @@
+{
+  "name": "proxy_Puppeteer",
+  "version": "1.0.0",
+  "description": "Exemplos de uso de proxy no puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suportepedropachecodev/proxy_Puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suportepedropachecodev/proxy_Puppeteer/issues"
+  },
+  "homepage": "https://github.com/suportepedropachecodev/proxy_Puppeteer#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "proxy-chain": "^0.4.6",
+    "puppeteer": "^5.5.0"
+  }
+}

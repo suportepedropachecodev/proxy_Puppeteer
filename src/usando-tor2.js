@@ -4,7 +4,6 @@
  */
 
 const puppeteer = require('puppeteer');
-const exec = require('child_process').exec;
 
 (async () => {
   const browser = await puppeteer.launch({
